@@ -1,4 +1,8 @@
 pandas
-seaborn
+numpy
 matplotlib
+seaborn
+scipy
 statsmodels
+jupyter
+notebook
