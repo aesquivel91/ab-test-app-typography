@@ -1,4 +1,8 @@
-# AB Test App Typography / Test A/A/B de Tipografía en App
+<p align="center">
+  <img src="tipografia-diseno-web.jpg" alt="AB Test Analysis Banner" width="800">
+</p>
+
+# AB Test App Typography
 
 A/A/B test measuring the impact of typography changes on user behavior. 
 
