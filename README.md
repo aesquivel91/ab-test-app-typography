@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="tipografia-diseno-web.jpg" alt="AB Test Banner" width="800">
+</p>
+
 # 🅰️🅱️ A/B Test App Typography
 
 ## 🎯 Descripción del Proyecto
